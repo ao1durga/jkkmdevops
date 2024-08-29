@@ -1,8 +1,8 @@
 public int add(int [] a ) {
 
-int val = 0 ; 
+int value = 0 ; 
 for(int i ; i < a.size() ; i++){
-val = val + a[i];
+value = value + a[i];
 }
 
 return val 
