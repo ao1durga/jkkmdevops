@@ -1,10 +1,11 @@
-public int add(int [] a ) {
+public int add(int [] b ) {
 
 int val = 0 ; 
-for(int i ; i < a.size() ; i++){
-val = val + a[i];
+for(int i ; i < b.size() ; i++){
+val = val + b[i];
 }
 
 return val 
 
 }
+
